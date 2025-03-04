@@ -82,12 +82,10 @@ ipykernel==6.6.1
 
 This project provides a reliable and efficient way to scrape contractor and agent information from multiple websites, clean the data, and store it in an easily accessible format. The integration of a scheduler ensures that the data is updated regularly, making it a valuable tool for anyone looking to gather real estate data.
 
-## Contact
+##  Contact  
 
-For any questions or support, feel free to reach out!
+For any questions or support, feel free to reach out!  
 
-Author: Saad Naveed
-
-Email: [saad.naveed.dev@gmail.com]
-
-GitHub: saadnaveeddev
+- **Author:** Saad Naveed  
+- **Email:** [saad.naveed.dev@gmail.com]  
+- **GitHub:** [saadnaveeddev](https://github.com/saadnaveeddev) 
