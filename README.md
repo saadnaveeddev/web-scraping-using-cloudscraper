@@ -11,6 +11,8 @@ This project is a web scraper built using Python to collect information about re
 5. [Data Processing](#data-processing)
 6. [Scheduler](#scheduler)
 7. [Requirements](#requirements)
+8. [Conclusions](#Conclusions)
+9. [Contact](#Contacts)
 
 ---
 
@@ -79,3 +81,11 @@ ipykernel==6.6.1
 ## Conclusion
 
 This project provides a reliable and efficient way to scrape contractor and agent information from multiple websites, clean the data, and store it in an easily accessible format. The integration of a scheduler ensures that the data is updated regularly, making it a valuable tool for anyone looking to gather real estate data.
+
+## Contact
+
+For any questions or support, feel free to reach out!
+
+Author: Saad Naveed
+Email: [saad.naveed.dev@gmail.com]
+GitHub: saadnaveeddev
